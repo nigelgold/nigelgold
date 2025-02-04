@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nigelgold
-- 👀 I’m interested in ... software development and web design.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ... CyberSecurity and Software Development.
+- 🌱 I’m currently learning ...Python
+- 💞️ I’m looking to collaborate on ... Security/cloud engineering projects
 - 📫 How to reach me ...
 
 <!---
