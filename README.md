@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nigelgold
 - 👀 I’m interested in ... CyberSecurity and Software Development.
-- 🌱 I’m currently learning ...Python
+- 🌱 I’m currently learning ...Python, Linux
 - 💞️ I’m looking to collaborate on ... Security/cloud engineering projects
 - 📫 How to reach me ...
 
